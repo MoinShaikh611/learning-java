@@ -24,7 +24,7 @@ public class Main {
 		memberService.registerMember("Ayaan");
 		
 		memberService.bookTakenFromLibrary("Moin", book5);
-		memberService.bookTakenFromLibrary("Ayaan", book1);
+//		memberService.bookTakenFromLibrary("Ayaan", book5);
 
 		System.out.println("Books remaining in library.");
 
